@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="stylefile.css">
+  
+  
+  <title>Hello, World!</title>
+  <img class="signupimg"  src="./signupimg.jpg">
+  
+</head>
+<body style="background-color: #ffffff">
+  
+  <fieldset class="field">
+    <strong style="color:#3a244a;">Let us know</strong><span style="color:#d72638">!</span>
+    
+    <h1 style="color: #d72638;" id="jjk">sing<span style="color: #3a244a;">up</span></h1>
+    
+    
+    <input id="pass3"  type="text" placeholder="Firstname"  >
+    <input id="pass4" type="text" placeholder="Last name">
+    <input id="pass1" type= "password"  placeholder="set password">
+    <i class="far fa-eye" id="togglePassword" style="margin-left: 10px; cursor: pointer;"></i>
+    
+    
+    
+    <input id="pass2" type="password" placeholder="retype password">
+    <select class="dropbox" title="contact" id="selct" >
+      <option value="" disabled selected hidden>contact mode</option>
+      <option>email</option>
+      <option>number</option>
+    
+    </select>
+    <input  type="email" id="inputfield1" >
+    <button class="buttonsty" onclick="myfunction()">signup</button>
+    
+
+
+
+  </fieldset>
+  
+ <!-- <script src="./plachol.js"></script>-->
+<script>
+ 
+var valu1=document.getElementById("pass1");
+var valu2=document.getElementById("pass2");
+var valu3=document.getElementById("pass3");
+var valu4=document.getElementById("pass4");
+var valu5=document.getElementById("selct");
+var valu6=document.getElementById("inputfield1");
+
+
+function myfunction(){
+  if ((valu1.value==valu2.value) && !(valu1.value.length==0) && !(valu2.value.length==0) && !(valu3.value.length==0) && !(valu4.value.length==0) && !(valu5.value.length==0) && !(valu6.value.length==0)) { 
+      alert("signed up successfull!");
+  }
+  else{ alert("                      miss match of password! \n                              or \n                         check whether box is empty");
+
+  }
+  }
+
+var select = document.getElementById('selct');
+
+
+select.addEventListener('change', () => {
+  var cv = select.options[select.selectedIndex].value;
+  
+ document.getElementById("inputfield1").type = cv;
+  
+  
+})
+</script>
+
+
+</body>
+</html>
