@@ -1,27 +1,9 @@
-*~
-~*
-*.diff
-*.patch
-*.bak
-.DS_Store
-*.swp
-*.swo
-*.log
-*.log.*
-
-/.vscode/
-
-node_modules/
-.sass-cache/
-
-/.bundle/
-/vendor/bundle
+# Ruby Gems
 *.gem
 
-yarn.lock
-package-lock.json
-Gemfile.lock
+# Design Files
+*.psd
+*.ai
 
-_site/
-.jekyll-metadata
-.jekyll-cache/
+# IntelliJ
+.idea
