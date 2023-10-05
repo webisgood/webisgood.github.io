@@ -8,7 +8,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : webisgood/webisgood.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+github              : [metadata]
 
 ### Plugins ###
 plugins:
@@ -29,12 +29,12 @@ author:
 # behance           : your_username
 # dribbble          : your_username
   email             : sanjeev.ksr2@gmail.com
-  facebook          : https://www.facebook.com/sanjeev.thathapudi/
-  github            : https://github.com/webisgood
+  facebook          : sanjeev.thathapudi
+  github            : webisgood
 # gitlab            : your_username
-  instagram         : https://instagram.com/tspj02?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+  instagram         : tspj02
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/sanjeev-thathapudi-989253217/
+  linkedin          : sanjeev-thathapudi-989253217
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username

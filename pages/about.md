@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I'm deeply interested in the field of VLSI Design and Architecture but I'm also curious about the design 
-of Controllers for Complex Systems such as Robots.
+of Controllers for Complex Systems such as Robots. This is a new line!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
