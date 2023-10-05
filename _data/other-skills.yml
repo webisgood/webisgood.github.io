@@ -1,23 +1,23 @@
 - name: Cadence Virtuoso
   percentage: 90
-  color: "red"
+  color: danger
 
 - name: COMSOL Multiphysics
   percentage: 50
-  color: "blue"
+  color: light
 
 - name: Onshape
   percentage: 75
-  color: "green"
+  color: info
 
 - name: AutoCAD
   percentage: 90
-  color: "gray"
+  color: danger
 
 - name: LTSpice
   percentage: 70
-  color: "pink"
+  color: info
 
 - name: CREO
   percentage: 75
-  color: white
+  color: info

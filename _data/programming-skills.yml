@@ -1,23 +1,23 @@
 - name: Verilog
   percentage: 85
-  color: danger
+  color: warning
 
 - name: C/CPP
   percentage: 85
-  color: danger
+  color: warning
 
 - name: MATLAB
   percentage: 90
-  color: secondary
+  color: danger
 
 - name: Python
   percentage: 75
-  color: secondary
+  color: success
 
 - name: Tensorflow
   percentage: 70
-  color: secondary
+  color: info
 
 - name: ScikitLearn
   percentage: 70
-  color: secondary
+  color: info

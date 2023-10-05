@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : My Blog
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Too busy converting 
+                      code to silicon !!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : webisgood/webisgood.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Thathapudi Sanjeev Paul Joel
-  image             : https://drive.google.com/file/d/1lbNkrKmkK1LSQzHbB5WMnb5vpM9rz65w/view?usp=sharing
+  image             : /images/profilePic.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : sanjeev.ksr2@gmail.com
