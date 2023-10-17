@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About the "PROFESSIONAL ME"**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
@@ -23,3 +23,5 @@ forward while the latter's growth would determine the further miniaturization of
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+# **About the "INFORMAL ME"**
