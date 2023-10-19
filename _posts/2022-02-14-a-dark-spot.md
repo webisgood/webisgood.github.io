@@ -7,6 +7,7 @@ description: This is a creative diary entry, describing the fight I had with my 
 ---
 
 October 16th, 2021
+
 I am back again with another snapshot of my life. It was dark in the morning with dense clouds surrounding the sky. A familiar musical sound was echoing from a distant place. I woke up slowly only to get disheartened to find out that it’s time. As I got up, I gave a small peek underneath my bed. There it was, a mechanical robot dog capable of walking just as an actual dog does. It had four legs and a front camera. It really is a wonderful thing. My friend Pavan entrusted it to me as his room is already filled up. As I was preparing to go to breakfast, my friend Rahul came by my room.
 
 “Good Morning, Sanjeev.”
