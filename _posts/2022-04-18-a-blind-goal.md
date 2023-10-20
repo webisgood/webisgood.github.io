@@ -3,10 +3,10 @@ title: A Blind Goal!
 tags: [Poetry]
 style: fill
 color: primary
-description: This is a poem drafted by me as inspiration from the follwing painting. Do try giving it a read!
+description: This is a poem drafted by me as inspiration from the painting attached inside. Do try giving it a read!
 ---
 
-![](/images/the-burning-giraffe-salvador-dali.jpg)
+![](/assets/the-burning-giraffe-salvador-dali.jpg)
 
 O Lord, where are we headed
 
