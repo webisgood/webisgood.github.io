@@ -1,6 +1,6 @@
 ---
 name: Facial & Speech Emotion Detection
-tools: [Python, Tensorflow, Google Colab]
+tools: [Python, Tensorflow]
 image: /assets/emotion_detection.jpg
 description: In this project, we first built and trained a CNN model for classifying emotions displayed
              in facial images. Then, we went on build and train a model for detecting emotions in speech
